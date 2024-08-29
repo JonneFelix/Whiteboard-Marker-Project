@@ -24,7 +24,7 @@ plt.switch_backend('Agg')
 app = Flask(__name__)
 
 # Load the model
-model_path = 'MashallahHneuConvNEULayer512mein_modell1_accuracy0.9581465125083923.h5'
+model_path = 'Modell.h5'
 model = load_model(model_path)
 
 # Dictionary to convert numbers to letters
