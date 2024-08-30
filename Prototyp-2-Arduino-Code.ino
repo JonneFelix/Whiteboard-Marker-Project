@@ -1,3 +1,5 @@
+// Teile dieses Codes wurden mit ChatGPT erstellt oder bearbeitet
+
 #include <Adafruit_BNO08x.h>
 #include <SPI.h>
 #include <BLEDevice.h>
