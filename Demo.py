@@ -1,3 +1,5 @@
+# Teile dieses Codes wurden mithilfen von ChatGPT erstellt oder bearbeitet
+
 import os
 import numpy as np
 import pandas as pd
