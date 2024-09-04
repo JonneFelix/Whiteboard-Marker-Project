@@ -1,3 +1,5 @@
+# Teile dieses Codes wurden mithilfen von ChatGPT erstellt oder bearbeitet
+
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
 import numpy as np
