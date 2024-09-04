@@ -1,3 +1,5 @@
+# Teile dieses Codes wurden mithilfen von ChatGPT erstellt oder bearbeitet
+
 import os
 import numpy as np
 import pandas as pd
@@ -14,7 +16,8 @@ from sklearn.metrics import confusion_matrix
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-csv_dir = r"C:\Users\Hermes\PycharmProjects\MLunddasQSamPC\venv\csvForLabeling"
+# Hier den Pfad ersezen!
+csv_dir = r"Dateipfad_zum_Ordner_mit_Trainingsdaten"
 epochen = 100
 batchsize = 256
 kernal_size = 7
